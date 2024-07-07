@@ -1,3 +1,5 @@
+--TY FOR folixx ON DISCORD FOR THIS SCRIPT 
+
 local data = {
     ["content"] = Content,
     ["embeds"] = {
